@@ -1,9 +1,5 @@
 # No-show-apppointment
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
-# Investigate a Dataset
-This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) certification.
-
-The default repo branch contains an updated version of the project developed after the assessment submission. The master branch of the repo contains the original project and code.
 
 ## Overview
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
@@ -19,7 +15,7 @@ Key indicators were:
 - SMS_received = 1 or more messages sent to the patient.
 - No-show = True or False.
 - Scholarship indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
--     ‘Bolsa Família’ It is a social welfare program of the Brazilian government, part of the Fome Zero network of federal assistance          programs. Bolsa Família provides financial aid to poor Brazilian families
+-     ‘Bolsa Família’ It is a social welfare program of the Brazilian government, part of the Fome Zero network of federal assistance          programs.Bolsa Família provides financial aid to poor Brazilian families
 
 The project involved data assessment and cleaning, performing EDA and drawing conclusions from the data.
 
