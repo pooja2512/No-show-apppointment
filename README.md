@@ -15,7 +15,7 @@ Key indicators were:
 - SMS_received = 1 or more messages sent to the patient.
 - No-show = True or False.
 - Scholarship indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
--‘Bolsa Família’ It is a social welfare program of the Brazilian government, part of the Fome Zero network of federal assistance       programs.Bolsa Família provides financial aid to poor Brazilian families
+- ‘Bolsa Família’ It is a social welfare program of the Brazilian government, part of the Fome Zero network of federal assistance       programs.Bolsa Família provides financial aid to poor Brazilian families
 
 The project involved data assessment and cleaning, performing EDA and drawing conclusions from the data.
 
