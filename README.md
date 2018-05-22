@@ -30,13 +30,9 @@ The project involved data assessment and cleaning, performing EDA and drawing co
 - Jupyter Notebook
 
 ## Key Findings
-- Observerd age group of patients in our dataset is from 0 to 80.
 - Hypertension is observed more followed by diabetes,Alcoholism,Handicap.
 - Senior people (age above 50) are most likely suffering from hypertension and child are most likely handicap.
 - More number of female are suffering from Hypertension and diabetes whereas male are more likely to suffering from alcoholism.
 - Irrespective of gender 80% of people visit to their scheduled appointments & that's a good sign It shows people do care about their health issues.
-- 1% of people in our dataset have received Bolsa Familia scholarship and out of that Middle age group happen to receive highest rate of scholarship
-- Parque Industrial,Ilha Do Boi,Aeroporto,Mario Cypreste,Solon Borges are the location of hospitals people most likely visit, Ilhas Oceanicas DE Trindade,Santos Dumont,Santa Cecilia,Santa Clara,Itarare are the location of hospitals people most likely don't visit
-- It shows people who haven't received SMS visit on their scheduled appointment so,receiving SMS is not particularly a good parameter to predict if patient will show or not
 - What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
--   Disease,age group,SMS,scholarship,month,weekday are the top paramenters in predicting if patient will show up on the scheduled           appointment.
+   Disease,age group,SMS,scholarship,month,weekday are the top paramenters in predicting if patient will show up on the scheduled           appointment.
