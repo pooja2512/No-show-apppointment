@@ -22,11 +22,11 @@ The project involved data assessment and cleaning, performing EDA and drawing co
 ### Statistical Analysis
 - Examinations of central tendencies and spread
 - Data visualization
-- One-way ANOVA hypothesis testing
-- Correlation and linear regression hypothesis testing
+- Conditional Probability & Bayes Rule
+- Logistic Regression
 
 ## Technologies Used
-- Python, Numpy, Pandas, Matplotlib, Scipy
+- Python, Numpy, Pandas, Matplotlib, scikit-learn
 - Jupyter Notebook
 
 ## Key Findings
