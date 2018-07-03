@@ -4,6 +4,8 @@ This dataset collects information from 100k medical appointments in Brazil and i
 ## Overview
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
 
+[View Project Here](https://github.com/pooja2512/No-show-apppointment/blob/master/No%20show%20appointments%20dataset.ipynb)
+
 Key indicators were:
 - ScheduledDay tells us on what day the patient set up their appointment.
 - Neighborhood indicates the location of the hospital.
